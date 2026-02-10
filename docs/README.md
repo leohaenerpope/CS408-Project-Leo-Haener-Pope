@@ -3,7 +3,7 @@ This repository will contain a full-stack web application built with Python, Dja
 
 ## Technology Stack
 - Backend technology stack
-    - Web Server:
+    - Web Server: nginx?
     - Backend Runtime: Python
     - Backend Framework: Django
     - Database: SQLite
@@ -11,4 +11,7 @@ This repository will contain a full-stack web application built with Python, Dja
     - Templates: Django integrated templates
     - UX/UI: Bootstrap 5
 - Testing Frameworks:
-    - End-to-End Testing: Django tests
+    - End-to-End Testing: Python pytest
+
+## Team Workflow
+- Solo developer - I am doing this project by myself.
