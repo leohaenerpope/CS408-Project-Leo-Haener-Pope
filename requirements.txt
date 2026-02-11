@@ -1,4 +1,0 @@
-django>=6.0
-pytest
-pytest-django
-django-bootstrap5
