@@ -1,0 +1,10 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment - .venv covers this with * in /app
+.venv/
+env/
+venv/
